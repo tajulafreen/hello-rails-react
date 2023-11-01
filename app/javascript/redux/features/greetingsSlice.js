@@ -8,7 +8,7 @@ const initialState =  {
 
 export const fetchMessage = createAsyncThunk('message/fetchMessage', async () => {
     try {
-        const response = await fetch('/greetings/random');
+        const response = await fetch('/greetings');
         const data =  await response.json();
         return data.greeting;
     } catch (error) {
