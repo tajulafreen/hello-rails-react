@@ -79,9 +79,9 @@ Or
 
 ## 👥 Author <a name="authors"></a>
 
-### 👤 **Abel Morara**
+### 👤 **Tajulafreen**
 
-- GitHub: [@ProgramKingAbel](https://github.com/tajulafreen)
+- GitHub: [@tajulafreen](https://github.com/tajulafreen)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/tajul-afreen)
 
 
